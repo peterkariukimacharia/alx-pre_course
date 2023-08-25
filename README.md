@@ -1,1 +1,1 @@
-my first README
+my first Reo in software development
