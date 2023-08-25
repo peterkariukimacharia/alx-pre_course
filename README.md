@@ -1,1 +1,1 @@
-my first Reo in software development
+my first repo in software development
